@@ -4,7 +4,7 @@
 
 Zend is a container module for all Zend dependencies. This module has a central role in managing Zend dependencies and supports better decoupling between modules.
 
-**DEPRECATED - This module is not continued at this point.**
+**DEPRECATED - This module is not continued at this point. Use [Laminas](https://github.com/spryker/laminas) instead which is the successor library of Zend.**
 
 ## Installation
 
